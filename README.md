@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bioamin
+- 👋 Hi, I’m Amin Boroomand. 
 - 👀 I’m a Data Scientist and a Computational Biologist.  
 - 🌱 I’m interested in finding patterns in big datasets. 
 - 💞️ I’m looking to collaborate on innovative projects which give me an opportiunity to learn. 
