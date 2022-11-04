@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bioamin
-- 👀 I’m a Data Scientist 
+- 👀 I’m a Data Scientist and a Computational Biologist.  
 - 🌱 I’m interested in finding patterns in big datasets. 
-- 💞️ I’m looking to collaborate on innovative project which give me an opportiunity to learn. 
+- 💞️ I’m looking to collaborate on innovative projects which give me an opportiunity to learn. 
 - 📫 You can reach me at aboroomand@ucmerced.edu
 
 <!---
