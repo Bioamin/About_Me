@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Bioamin
+- 👀 I’m a Data Scientist 
+- 🌱 I’m interested in finding patterns in big datasets. 
+- 💞️ I’m looking to collaborate on innovative project which give me an opportiunity to learn. 
+- 📫 You can reach me at aboroomand@ucmerced.edu
+
+<!---
+Bioamin/Bioamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
